@@ -9,4 +9,5 @@ program function_test
 	real :: res
 	res=foo(1.0)
 	print *,"The result is",res
+	print *, sqrt(2.0)
 end program function_test
